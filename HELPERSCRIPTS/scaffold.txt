@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\bakon\TicketSeller\TicketSellerDB.mdf;Integrated Security=True;Connect Timeout=30" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model -ContextDir Model\Context -Context TicketSellerDbContext -force
